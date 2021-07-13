@@ -1,6 +1,6 @@
 eureka:
   instance:
-    hostname: localhost
+    hostname: nsdl-edastakhat-dis
   client:
     registerWithEureka: true
     fetchRegistry: true
